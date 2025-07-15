@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdallah Aziz</h1>
+<h1 align="center">Hi 👋, I'm Abdallah Mohamed (Aziz)</h1>
 <h3 align="center">Frontend developer from <img src="https://flagcdn.com/w40/eg.png" alt="Egypt Flag" width="20" style="vertical-align: middle; margin-left: 5px;"> who loves building modern and accessible web apps</h3>
 
 - 💬 Ask me about **ReactJs, TailwindCSS, JavaScript, and TypeScript**
