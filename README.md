@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdallah Aziz</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
+
 - 💬 Ask me about **ReactJs, TailwindCSS, JavaScript, and TypeScript**
 
 - 🌱 I’m currently learning **NextJs**
