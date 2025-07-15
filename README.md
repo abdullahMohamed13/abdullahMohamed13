@@ -18,5 +18,4 @@
 <a href="https://fb.com/https://www.facebook.com/abdllamohaamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdllamohaamad" height="30" width="40" /></a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdullahMohamed13&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahMohamed13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
