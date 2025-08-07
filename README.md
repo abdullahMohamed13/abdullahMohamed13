@@ -2,7 +2,7 @@
 <h2 align="center">Frontend developer from <img src="https://flagcdn.com/w40/eg.png" alt="Egypt Flag" width="20" style="vertical-align: middle; margin-left: 5px;"> who loves building modern and accessible web apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Curious%20Always%20Building;Open%20to%20Collaboration&font=Bold%20Code&center=true&color=30D050&pause=2000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Curious%20Always%20Building;Open%20to%20Collaboration&font=Bold%20Code&center=true&color=9c27b0&pause=1500">
 </p>
   
 - 💬 Ask me about **ReactJs, TailwindCSS, JavaScript, and TypeScript**
@@ -30,6 +30,10 @@
   <!-- typescript icon -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <!-- tanstack icon -->
+  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
+    <img src="https://github.com/pheralb/svgl/blob/main/static/library/tanstack.svg" alt="tanstack query" width="40" height="40"/>
   </a>
   <!-- javascript icon -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
