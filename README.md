@@ -2,7 +2,7 @@
 <h2 align="center">Frontend developer from <img src="https://flagcdn.com/w40/eg.png" alt="Egypt Flag" width="20" style="vertical-align: middle; margin-left: 5px;"> who loves building modern and accessible web apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Open%20to%20Front-End%20Projects%20and%20Collaboration;Always%20Curious%20Always%20Building&font=Bold%20Code&center=true&color=30D050&pause=2000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Curious%20Always%20Building;Open%20to%20Collaboration&font=Bold%20Code&center=true&color=30D050&pause=2000">
 </p>
   
 - 💬 Ask me about **ReactJs, TailwindCSS, JavaScript, and TypeScript**
