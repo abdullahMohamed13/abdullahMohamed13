@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdallah Mohamed (Aziz)</h1>
-<h3 align="center">Frontend developer from <img src="https://flagcdn.com/w40/eg.png" alt="Egypt Flag" width="20" style="vertical-align: middle; margin-left: 5px;"> who loves building modern and accessible web apps</h3>
+<h2 align="center">Frontend developer from <img src="https://flagcdn.com/w40/eg.png" alt="Egypt Flag" width="20" style="vertical-align: middle; margin-left: 5px;"> who loves building modern and accessible web apps</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Open%20to%20Front-End%20Projects%20and%20Collaboration;Always%20Curious%20Always%20Building&font=Bold%20Code&center=true&color=30D050&pause=2000">
+</p>
+  
 - 💬 Ask me about **ReactJs, TailwindCSS, JavaScript, and TypeScript**
 
 - 🌱 I’m currently learning **NextJs**
   
-- 👨‍💻 Explore my work [My Potfolio](https://abdallah-aziz.vercel.app)
+- 👨‍💻 Explore my work [My Potfolio]: (https://abdallah-aziz.vercel.app)
 
 - 📫 Contact me: **abdullah.229op@gmail.com**
 
@@ -18,4 +22,7 @@
 <a href="https://www.facebook.com/share/193XdsSDRe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdllamohaamad" height="30" width="40" /></a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahMohamed13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahMohamed13&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp;
+  </p>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
