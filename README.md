@@ -66,6 +66,6 @@
 </p>
 
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahMohamed13&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahMohamed13&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp;
   </p>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
