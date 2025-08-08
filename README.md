@@ -68,6 +68,8 @@
 <h3 align="center">GitHub Stats:</h3>
   <div align="center">
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahMohamed13&layout=compact&langs_count=6&theme=tokyonight&&show_icons=true&hide_border=true" height="120"/> &nbsp; -->
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abdullahMohamed13&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&v=20250808)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahMohamed13&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&v=20250808" height="120"/> &nbsp;
   </div>
+
+<!-- Old One -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
