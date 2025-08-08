@@ -35,9 +35,7 @@
   </a>
   <!-- tanstack icon -->
   <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
-    <img src="https://github.com/pheralb/svgl/blob/main/static/library/tanstack.svg"
-style="border: 1px solid #9c27b0;"
- alt="tanstack query" title="tanstack query" width="50" height="50"/>
+    <img src="https://github.com/pheralb/svgl/blob/main/static/library/tanstack.svg" alt="tanstack query" title="tanstack query" width="50" height="50"/>
   </a>
   <!-- javascript icon -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
