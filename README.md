@@ -13,6 +13,8 @@
 
 - 📫 Contact me: **abdullah.229op@gmail.com**
 
+<br />
+
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <!-- react icon -->
@@ -52,6 +54,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>
   </a>
  </div>
+ <br />
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 <!-- linkedin icon -->
@@ -64,6 +67,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdllamohaamad" height="30" width="40" />
   </a>
 </div>
+
+<br />
 
 <h3 align="center">GitHub Stats:</h3>
   <div align="center">
