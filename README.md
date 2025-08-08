@@ -13,8 +13,8 @@
 
 - 📫 Contact me: **abdullah.229op@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<div align="left">
   <!-- react icon -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="reactjs" width="40" height="40"/>
@@ -51,9 +51,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>
   </a>
- </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+ </div>
+<h3 align="center">Connect with me:</h3>
+<div align="left">
 <!-- linkedin icon -->
   <a href="https://www.linkedin.com/in/abdallah-aziz-999b54295" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/abdallah-aziz-999b54295" height="30" width="40" />
@@ -63,9 +63,11 @@
   <a href="https://www.facebook.com/share/193XdsSDRe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdllamohaamad" height="30" width="40" />
   </a>
-</p>
+</div>
 
-  <p align="left">
+<h3 align="center">GitHub Stats:</h3>
+  <div align="center">
+    ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahMohamed13&show_icons=true)
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahMohamed13&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="120"/> &nbsp;
-  </p>
+  </div>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
