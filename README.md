@@ -39,8 +39,9 @@
   </a>
   <!-- react-router icon -->
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-icon.svg" alt="react router" title="react router" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-ar21~bgwhite.svg" alt="react router" title="react router" width="50" height="50"/>
   </a>
+<!--   https://www.vectorlogo.zone/logos/reactrouter/reactrouter-icon.svg -->
   <!-- javascript icon -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="50" height="50"/>
