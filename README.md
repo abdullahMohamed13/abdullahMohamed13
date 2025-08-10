@@ -37,6 +37,10 @@
   <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
     <img src="https://github.com/pheralb/svgl/blob/main/static/library/tanstack.svg" alt="tanstack query" title="tanstack query" width="50" height="50"/>
   </a>
+  <!-- react-router icon -->
+  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-icon.svg" alt="react router" title="react router" width="50" height="50"/>
+  </a>
   <!-- javascript icon -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="50" height="50"/>
