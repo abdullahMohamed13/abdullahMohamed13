@@ -4,10 +4,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Curious%20Always%20Improving;Exploring%20The%20Future%20Of%20The%20Web;Open%20To%20Collaborations&font=Bold%20Code&center=true&color=9c27b0&pause=800">
 </p>
-  
-- 💬 Ask me about **ReactJs, TailwindCSS, JavaScript, and TypeScript**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **React Native**
   
 - 👨‍💻 Explore my work: [My Potfolio](https://abdallah-aziz.vercel.app)
 
@@ -25,9 +23,17 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="50" height="50"/>
   </a>
+  <!-- javascript icon -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="50" height="50"/>
+  </a>
   <!-- tailwind icon -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="tailwindcss" width="50" height="50"/>
+  </a>
+  <!-- Docker icon -->
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" title="docker" width="50" height="50"/>
   </a>
   <!-- redux icon -->
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
@@ -35,15 +41,11 @@
   </a>
   <!-- tanstack icon -->
   <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
-    <img src="https://github.com/pheralb/svgl/blob/main/static/library/tanstack.svg" alt="tanstack query" title="tanstack query" width="50" height="50"/>
+    <img src="https://github.com/bestofjs/bestofjs/blob/master/apps/web/public/logos/react-query.svg" alt="react query" title="react query" width="50" height="50"/>
   </a>
   <!-- react-router icon -->
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-icon.svg" alt="react router" title="react router" width="50" height="50"/>
-  </a>
-  <!-- javascript icon -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="50" height="50"/>
   </a>
   <!-- css icon -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
