@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Abdallah Mohamed (Aziz)</h1>
-<h2 align="center">Frontend developer from <img src="https://flagcdn.com/w40/eg.png" alt="Egypt Flag" width="20" style="vertical-align: middle; margin-left: 5px;"> who loves building modern and accessible web apps</h3>
+<h1 align="center">Hi👋, I'm Abdallah Mohamed (Aziz)</h1>
+
+<h2 align="center">A Frontend web developer who loves building modern and accessible web apps</h2>
+<p align="center">
+  🌟 I’m open to new opportunities where I can contribute to building solutions that make a difference.  
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Curious%20Always%20Improving;Exploring%20The%20Future%20Of%20The%20Web;Open%20To%20Collaborations&font=Bold%20Code&center=true&color=9c27b0&pause=800">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Curious%20Always%20Improving;Exploring%20The%20Future%20Of%20The%20Web;Open%20To%20Collaborations&font=Bold%20Code&center=true&color=2296f3&pause=800">
 </p>
 
 - 🌱 I’m currently learning **React Native**
   
 - 👨‍💻 Explore my work: [My Potfolio](https://abdallah-aziz.vercel.app)
 
-- 📫 Contact me: **abdullah.229op@gmail.com**
+- 📫 Email: **abdullah.229op@gmail.com**
 
 <br />
 
