@@ -1,8 +1,7 @@
-<h1 align="center">Hi👋, I'm Abdallah Mohamed (Aziz)</h1>
+<h1 align="center">Hi👋, I'm a frontend developer who loves building cool stuff</h1>
 
-<h2 align="center">A Frontend web developer who loves building modern and accessible web apps</h2>
 <p align="center">
-  🌟 I’m open to new opportunities where I can contribute to building solutions that make a difference.  
+  I’m open to new opportunities where I can contribute to building solutions that make a difference.  
 </p>
 
 <p align="center">
@@ -13,7 +12,7 @@
   
 - 👨‍💻 Explore my work: [My Potfolio](https://abdallah-aziz.vercel.app)
 
-- 📫 Email: **abdullah.229op@gmail.com**
+- 📫 Feel free to reach out: **abdullah.229op@gmail.com**
 
 <br />
 
@@ -65,19 +64,18 @@
   </a>
  </div>
  <br />
-<h3 align="center">Connect with me:</h3>
+ 
+<!--<h3 align="center">Connect with me:</h3>
 <div align="center">
-<!-- linkedin icon -->
   <a href="https://www.linkedin.com/in/abdallah-aziz-999b54295" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/abdallah-aziz-999b54295" height="50" width="50" />
   </a>
   
-<!-- facebook icon -->
   <a href="https://www.facebook.com/share/193XdsSDRe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdllamohaamad" height="50" width="50" />
   </a>
 </div>
-
+ -->
 <br />
 
 <h3 align="center">GitHub Stats:</h3>
@@ -85,6 +83,3 @@
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahMohamed13&layout=compact&langs_count=6&theme=tokyonight&&show_icons=true&hide_border=true" height="120"/> &nbsp; -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahMohamed13&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&v=2" height="140"/> &nbsp;
   </div>
-
-<!-- Old One -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
