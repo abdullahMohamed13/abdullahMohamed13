@@ -86,15 +86,9 @@
   </div>
 
 <!-- Avatar -->
-  <div align="right">
-    <h1 class="field">
-      <span>Abdallah Mohamed</span>
-      <img class="avatar" src="https://avatars.githubusercontent.com/u/141356967?v=4" />
-    </h1>
-    <div class="field">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-            <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
-        </svg>
-        Joined GitHub 2 years ago
-    </div>
-  </div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/141356967?v=4" alt="Abdallah Mohamed" width="120" style="border-radius:50%;border:2px solid #2296f3;"/>
+  <h4>Abdallah Mohamed</h2>
+  <img src="https://img.shields.io/badge/Joined-2_years_ago-blue?style=for-the-badge&logo=github"/>
+  <sub><b>Abdallah Mohamed</b><br/>Joined GitHub 2 years ago</sub>
+</div>
