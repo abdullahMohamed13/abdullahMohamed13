@@ -86,24 +86,26 @@
 
 <div align="right">
   <!-- mini contribution squares -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
-    <g>
-      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" fill="#9be9a8"/>
-      <rect x="15" y="0" width="11" height="11" rx="2" ry="2" fill="#9be9a8"/>
-      <rect x="30" y="0" width="11" height="11" rx="2" ry="2" fill="#9be9a8"/>
-      <rect x="45" y="0" width="11" height="11" rx="2" ry="2" fill="#9be9a8"/>
-      <rect x="60" y="0" width="11" height="11" rx="2" ry="2" fill="#216e39"/>
-      <rect x="75" y="0" width="11" height="11" rx="2" ry="2" fill="#9be9a8"/>
-      <rect x="90" y="0" width="11" height="11" rx="2" ry="2" fill="#216e39"/>
-      <rect x="105" y="0" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
-      <rect x="120" y="0" width="11" height="11" rx="2" ry="2" fill="#9be9a8"/>
-      <rect x="135" y="0" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
-      <rect x="150" y="0" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
-      <rect x="165" y="0" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-      <rect x="180" y="0" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-      <rect x="195" y="0" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
-    </g>
-  </svg>
+  <div class="field calendar">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
+      <g>
+        <rect x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+        <rect x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+        <rect x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+        <rect x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+        <rect x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+        <rect x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+        <rect x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+        <rect x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+        <rect x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+        <rect x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+        <rect x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+        <rect x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+        <rect x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+        <rect x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+      </g>
+    </svg>
+  </div>
 
   <!-- badge -->
   <img src="https://img.shields.io/badge/Joined-2_years_ago-blue?style=for-the-badge&logo=github"/>
