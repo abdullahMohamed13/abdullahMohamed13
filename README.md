@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Curious%20Always%20Improving;Exploring%20The%20Future%20Of%20The%20Web;Open%20To%20Collaborations;What?%20what%20are%20waiting%20for?%203%20statements%20aren't%20enough?&font=Bold%20Code&center=true&color=2296f3&pause=800">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Curious%20Always%20Improving;Exploring%20The%20Future%20Of%20The%20Web;Open%20To%20Collaborations;What?%20What%20are%20waiting%20for?;WHAT?%20Four%20statements%20aren't%20enough?&font=Bold%20Code&center=true&color=2296f3&pause=800">
 </p>
 
 - 🌱 I’m currently learning **React Native**
