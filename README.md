@@ -78,8 +78,23 @@
  -->
 <br />
 
+<!-- STATS -->
 <h3 align="center">GitHub Stats:</h3>
   <div align="center">
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahMohamed13&layout=compact&langs_count=6&theme=tokyonight&&show_icons=true&hide_border=true" height="120"/> &nbsp; -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahMohamed13&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&v=2" height="140"/> &nbsp;
+  </div>
+
+<!-- Avatar -->
+  <div align="right">
+    <h1 class="field">
+      <span>Abdallah Mohamed</span>
+      <img class="avatar" src="https://avatars.githubusercontent.com/u/141356967?v=4" />
+    </h1>
+    <div class="field">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+            <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
+        </svg>
+        Joined GitHub 2 years ago
+    </div>
   </div>
