@@ -81,11 +81,30 @@
 <!-- STATS -->
 <h3 align="center">GitHub Stats:</h3>
   <div align="center">
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahMohamed13&layout=compact&langs_count=6&theme=tokyonight&&show_icons=true&hide_border=true" height="120"/> &nbsp; -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahMohamed13&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&v=2" height="140"/> &nbsp;
   </div>
 
-<!-- Avatar -->
 <div align="right">
+  <!-- mini contribution squares -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
+    <g>
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" fill="#9be9a8"/>
+      <rect x="15" y="0" width="11" height="11" rx="2" ry="2" fill="#9be9a8"/>
+      <rect x="30" y="0" width="11" height="11" rx="2" ry="2" fill="#9be9a8"/>
+      <rect x="45" y="0" width="11" height="11" rx="2" ry="2" fill="#9be9a8"/>
+      <rect x="60" y="0" width="11" height="11" rx="2" ry="2" fill="#216e39"/>
+      <rect x="75" y="0" width="11" height="11" rx="2" ry="2" fill="#9be9a8"/>
+      <rect x="90" y="0" width="11" height="11" rx="2" ry="2" fill="#216e39"/>
+      <rect x="105" y="0" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
+      <rect x="120" y="0" width="11" height="11" rx="2" ry="2" fill="#9be9a8"/>
+      <rect x="135" y="0" width="11" height="11" rx="2" ry="2" fill="#40c463"/>
+      <rect x="150" y="0" width="11" height="11" rx="2" ry="2" fill="#30a14e"/>
+      <rect x="165" y="0" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
+      <rect x="180" y="0" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
+      <rect x="195" y="0" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
+    </g>
+  </svg>
+
+  <!-- badge -->
   <img src="https://img.shields.io/badge/Joined-2_years_ago-blue?style=for-the-badge&logo=github"/>
 </div>
