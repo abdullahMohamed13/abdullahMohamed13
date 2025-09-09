@@ -86,9 +86,6 @@
   </div>
 
 <!-- Avatar -->
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/141356967?v=4" alt="Abdallah Mohamed" width="120" style="border-radius:50%;border:2px solid #2296f3;"/>
-  <h4>Abdallah Mohamed</h2>
+<div align="right">
   <img src="https://img.shields.io/badge/Joined-2_years_ago-blue?style=for-the-badge&logo=github"/>
-  <sub><b>Abdallah Mohamed</b><br/>Joined GitHub 2 years ago</sub>
 </div>
