@@ -106,3 +106,16 @@
     </svg>
   </div>
 -->
+
+<!-- ## CV
+  You can find my CV in English below:
+  
+  | English CV |
+  |:---:|:---:|
+  |[<img align="center" src="images/cv.png"  width="100" alt="English CV"/>](Put_here_CV_URL)
+-->
+
+<!-- Old Stats 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahMohamed13&layout=compact&hide_border=true&count_private=true&theme=github_dark&langs_count=9)](https://github.com/anuraghazra/github-readme-stats) 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahMohamed13&theme=github_dark&hide_border=true" align="center" alt="github stats"/>
+-->
