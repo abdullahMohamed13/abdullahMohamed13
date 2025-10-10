@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
   
-- 👨‍💻 Explore my work: [My Potfolio](https://abdallah-aziz.vercel.app)
+- 👨‍💻 Explore my work: [My Potfolio](https://abdallah-aziz.netlify.app)
 
 - 📫 Feel free to reach out: **abdullah.229op@gmail.com**
 
