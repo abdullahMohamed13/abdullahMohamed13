@@ -10,10 +10,6 @@
 
 - Explore my work from [My Potfolio](https://abdallah-aziz.netlify.app)
 
-- 📫 Feel free to reach out: **abdullah.229op@gmail.com**
-
-<br />
-
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <!-- react icon -->
@@ -77,10 +73,10 @@
 <br />
 
 <!-- STATS -->
-<h3 align="center">GitHub Stats:</h3>
+<!-- <h3 align="center">GitHub Stats:</h3>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahMohamed13&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&v=2" height="140"/> &nbsp;
-  </div>
+  </div> -->
 
 <!-- Joining date badge -->
 <div align="right">
