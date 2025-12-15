@@ -32,17 +32,9 @@
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" title="docker" width="50" height="50"/>
   </a>
-  <!-- redux icon -->
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="redux" width="50" height="50"/>
-  </a>
-  <!-- tanstack icon -->
-  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
-    <img src="https://github.com/bestofjs/bestofjs/blob/master/apps/web/public/logos/react-query.svg" alt="react query" title="react query" width="50" height="50"/>
-  </a>
-  <!-- react-router icon -->
-  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-icon.svg" alt="react router" title="react router" width="50" height="50"/>
+  <!-- Sass icon -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="sass" title="sass" width="50" height="50"/>
   </a>
   <!-- css icon -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
