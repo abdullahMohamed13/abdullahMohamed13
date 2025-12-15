@@ -8,7 +8,7 @@
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Curious%20Always%20Improving;Exploring%20The%20Future%20Of%20The%20Web;Open%20To%20Collaborations;What?%20What%20are%20you%20waiting%20for?;WHAT?%20Four%20statements%20aren't%20enough?&font=Bold%20Code&center=true&color=2296f3&pause=800">
 </p> -->
-<h3 align="center">- Explore my work from <a href="https://abdallah-aziz.netlify.app">my portfolio</a></h3>
+<h3 align="center">- Explore my work from <a href="https://abdallah-aziz.netlify.app" target="_blank" rel="noreferrer">my portfolio</a></h3>
 
 <h3 align="center">- Languages and Tools:</h3>
 <div align="center">
