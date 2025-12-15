@@ -1,16 +1,14 @@
-<h1 align="center">Hi👋, I'm a frontend developer who loves building cool stuff</h1>
+<h1 align="center">Hi👋, I'm a frontend developer and I use Neovim btw</h1>
 
-<p align="center">
+<!-- <p align="center">
   I’m open to new opportunities where I can contribute to building solutions that make a difference.  
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Curious%20Always%20Improving;Exploring%20The%20Future%20Of%20The%20Web;Open%20To%20Collaborations;What?%20What%20are%20you%20waiting%20for?;WHAT?%20Four%20statements%20aren't%20enough?&font=Bold%20Code&center=true&color=2296f3&pause=800">
-</p>
+</p> -->
 
-- 🌱 I’m currently learning **React Native**
-  
-- 👨‍💻 Explore my work: [My Potfolio](https://abdallah-aziz.netlify.app)
+- Explore my work from [My Potfolio](https://abdallah-aziz.netlify.app)
 
 - 📫 Feel free to reach out: **abdullah.229op@gmail.com**
 
@@ -86,7 +84,7 @@
 
 <!-- Joining date badge -->
 <div align="right">
-  <img src="https://img.shields.io/badge/Joined-2_years_ago-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Joined-3_years_ago-blue?style=for-the-badge&logo=github"/>
 </div>
 
 <!-- mini contribution squares
