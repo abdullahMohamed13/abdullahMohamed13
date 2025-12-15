@@ -33,8 +33,8 @@
     <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" title="docker" width="50" height="50"/>
   </a>
   <!-- Sass icon -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="sass" title="sass" width="50" height="50"/>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21~bgwhite.svg" alt="sass" title="sass" width="50" height="50"/>
   </a>
   <!-- css icon -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
