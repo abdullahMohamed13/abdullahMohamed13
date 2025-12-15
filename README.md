@@ -8,10 +8,9 @@
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Curious%20Always%20Improving;Exploring%20The%20Future%20Of%20The%20Web;Open%20To%20Collaborations;What?%20What%20are%20you%20waiting%20for?;WHAT?%20Four%20statements%20aren't%20enough?&font=Bold%20Code&center=true&color=2296f3&pause=800">
 </p> -->
+<h3 align="center">- Explore my work from <a href="https://abdallah-aziz.netlify.app">my portfolio</a></h3>
 
-- Explore my work from [my potfolio](https://abdallah-aziz.netlify.app)
-
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">- Languages and Tools:</h3>
 <div align="center">
   <!-- react icon -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -29,25 +28,25 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="tailwindcss" width="50" height="50"/>
   </a>
-  <!-- Docker icon -->
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" title="docker" width="50" height="50"/>
-  </a>
-  <!-- Sass icon -->
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="sass" width="50" height="50"/>
+  <!-- html icon -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html" width="50" height="50"/>
   </a>
   <!-- css icon -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css" width="50" height="50"/>
   </a>
-  <!-- html icon -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html" width="50" height="50"/>
+  <!-- Sass icon -->
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="sass" width="50" height="50"/>
   </a>
   <!-- git icon -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="50" height="50"/>
+  </a>
+  <!-- Docker icon -->
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" title="docker" width="50" height="50"/>
   </a>
  </div>
  <br />
