@@ -1,4 +1,5 @@
-<h1 align="center">Hi👋, I'm a frontend developer and I use Neovim btw</h1>
+<h2 align="center">Hi👋 I'm a frontend web dev currently exploring the backend side of web development</h2>
+<!-- and I use Neovim (btw) -->
 
 <!-- <p align="center">
   I’m open to new opportunities where I can contribute to building solutions that make a difference.  
@@ -8,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Curious%20Always%20Improving;Exploring%20The%20Future%20Of%20The%20Web;Open%20To%20Collaborations;What?%20What%20are%20you%20waiting%20for?;WHAT?%20Four%20statements%20aren't%20enough?&font=Bold%20Code&center=true&color=2296f3&pause=800">
 </p> -->
 
-- Explore my work from [My Potfolio](https://abdallah-aziz.netlify.app)
+- Explore my work from [my potfolio](https://abdallah-aziz.netlify.app)
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
@@ -34,7 +35,7 @@
   </a>
   <!-- Sass icon -->
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21~bgwhite.svg" alt="sass" title="sass" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="sass" width="50" height="50"/>
   </a>
   <!-- css icon -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
