@@ -1,57 +1,36 @@
-<h2 align="center">Hi👋 I'm a frontend web dev currently exploring the backend side of web development</h2>
-<!-- and I use Neovim (btw) -->
-
-<!-- <p align="center">
-  I’m open to new opportunities where I can contribute to building solutions that make a difference.  
-</p> -->
-
+<h1>Hallo 👋</h2>
+<!-- and I use Neovim -->
+<h3>I'm a Frontend developer exploring the Backend side of web development via Laravel. I use linux btw ☝️🤓</h3>
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Curious%20Always%20Improving;Exploring%20The%20Future%20Of%20The%20Web;Open%20To%20Collaborations;What?%20What%20are%20you%20waiting%20for?;WHAT?%20Four%20statements%20aren't%20enough?&font=Bold%20Code&center=true&color=2296f3&pause=800">
 </p> -->
-<h3 align="center">- Explore my work from <a href="https://abdallah-aziz.netlify.app" target="_blank" rel="noreferrer">my portfolio</a></h3>
+<div>
+  <span>- Explore my work from</span>
+  <a href="https://abdallah-aziz.netlify.app" target="_blank" rel="noreferrer">My Portfolio</a>.
+</div>
+
+<div>
+  <span>- Join me on</span>
+  <a href="https://www.linkedin.com/in/abdallah-aziz-999b54295" target="blank">LinkedIn</a>.
+  <!-- <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin account" height="50" width="50" /> -->
+</div>
 
 <h3 align="center">- Languages and Tools:</h3>
 <div align="center">
-  <!-- react icon -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="reactjs" width="50" height="50"/>
-  </a>
-  <!-- typescript icon -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="50" height="50"/>
-  </a>
-  <!-- javascript icon -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="50" height="50"/>
-  </a>
-  <!-- tailwind icon -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="tailwindcss" width="50" height="50"/>
-  </a>
-  <!-- html icon -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html" width="50" height="50"/>
-  </a>
-  <!-- css icon -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css" width="50" height="50"/>
-  </a>
-  <!-- Sass icon -->
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="sass" width="50" height="50"/>
-  </a>
-  <!-- git icon -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="50" height="50"/>
-  </a>
-  <!-- Docker icon -->
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" title="docker" width="50" height="50"/>
-  </a>
- </div>
- <br />
-
- and I use linux btw..
+  <table>
+    <tr>
+      <td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/></a></td>
+      <td><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/></a></td>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/></a></td>
+      <td><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/></a></td>
+      <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/></a></td>
+      <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/></a></td>
+      <td><a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50"/></a></td>
+      <!-- <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/></a></td> -->
+      <!-- <td><a href="https://www.docker.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="50" height="50"/></a></td> -->
+    </tr>
+  </table>
+</div>
  
 <!--<h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -74,7 +53,7 @@
 
 <!-- Joining date badge -->
 <div align="right">
-  <img src="https://img.shields.io/badge/Joined-3_years_ago-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Joined-4_years_ago-blue?style=for-the-badge&logo=github"/>
 </div>
 
 <!-- mini contribution squares
