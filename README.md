@@ -1,12 +1,13 @@
 <h1>Hallo 👋</h2>
 <!-- and I use Neovim -->
-<h3>I'm a Frontend developer exploring the Backend side of web development via Laravel. I use linux btw ☝️🤓</h3>
+<h3>I'm a Frontend developer exploring the Backend side of web development via Laravel.</h3>
+<h4>I use linux btw ☝️🤓</h2>
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Curious%20Always%20Improving;Exploring%20The%20Future%20Of%20The%20Web;Open%20To%20Collaborations;What?%20What%20are%20you%20waiting%20for?;WHAT?%20Four%20statements%20aren't%20enough?&font=Bold%20Code&center=true&color=2296f3&pause=800">
 </p> -->
 <div>
   <span>- Explore my work from</span>
-  <a href="https://abdallah-aziz.netlify.app" target="_blank" rel="noreferrer">My Portfolio</a>.
+  <a href="https://abdallah-aziz.vercel.app" target="_blank" rel="noreferrer">My Portfolio</a>.
 </div>
 
 <div>
