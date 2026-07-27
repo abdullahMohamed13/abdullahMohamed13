@@ -7,12 +7,12 @@
 </p> -->
 <div>
   <span>- Explore my work from</span>
-  <a href="https://abdallah-aziz.vercel.app" target="_blank" rel="noreferrer">My Portfolio</a>.
+  <a href="abdallah-aziz.onrender.com" rel="noreferrer">My Portfolio</a>.
 </div>
 
 <div>
   <span>- Join me on</span>
-  <a href="https://www.linkedin.com/in/abdallah-aziz-999b54295" target="blank">LinkedIn</a>.
+  <a href="https://linkedin.com/in/abdallah-m-aziz">LinkedIn</a>.
   <!-- <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin account" height="50" width="50" /> -->
 </div>
 
