@@ -1,89 +1,77 @@
-<h1>Hallo 👋</h2>
-<!-- and I use Neovim -->
-<h3>I'm a Frontend developer exploring the Backend side of web development via Laravel.</h3>
-<h4>I use linux btw ☝️🤓</h2>
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Curious%20Always%20Improving;Exploring%20The%20Future%20Of%20The%20Web;Open%20To%20Collaborations;What?%20What%20are%20you%20waiting%20for?;WHAT?%20Four%20statements%20aren't%20enough?&font=Bold%20Code&center=true&color=2296f3&pause=800">
-</p> -->
-<div>
-  <span>- Explore my work from</span>
-  <a href="abdallah-aziz.onrender.com" rel="noreferrer">My Portfolio</a>.
-</div>
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<div>
-  <span>- Join me on</span>
-  <a href="https://linkedin.com/in/abdallah-m-aziz">LinkedIn</a>.
-  <!-- <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin account" height="50" width="50" /> -->
-</div>
+### Frontend Developer exploring Backend Web Development with **Laravel**.
+*Neovim enthusiast*
 
-<h3 align="center">- Languages and Tools:</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/></a></td>
-      <td><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/></a></td>
-      <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/></a></td>
-      <td><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/></a></td>
-      <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/></a></td>
-      <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/></a></td>
-      <td><a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50"/></a></td>
-      <!-- <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/></a></td> -->
-      <!-- <td><a href="https://www.docker.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="50" height="50"/></a></td> -->
-    </tr>
-  </table>
-</div>
- 
-<!--<h3 align="center">Connect with me:</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/abdallah-aziz-999b54295" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/abdallah-aziz-999b54295" height="50" width="50" />
-  </a>
-  
-  <a href="https://www.facebook.com/share/193XdsSDRe" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdllamohaamad" height="50" width="50" />
-  </a>
-</div>
- -->
-<br />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abdullahMohamed13&label=Profile%20Visitors&color=2bbc8a&style=flat" />
+</p>
 
-<!-- STATS -->
-<!-- <h3 align="center">GitHub Stats:</h3>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahMohamed13&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&v=2" height="140"/> &nbsp;
-  </div> -->
+<h2>
+  <img src="https://cdn.simpleicons.org/aboutdotme/2bbc8a" width="70">
+</h2>
 
-<!-- Joining date badge -->
-<div align="right">
-  <img src="https://img.shields.io/badge/Joined-4_years_ago-blue?style=for-the-badge&logo=github"/>
-</div>
+- 💻 **Frontend**: Modern web interfaces built with React, TypeScript, JavaScript, HTML5, CSS3, Sass, and Tailwind CSS.
+- ⚙️ **Backend**: Currently expanding backend knowledge using Laravel.
+- 🛠️ **Workflow**: Preferred environment is Linux with Neovim.
 
-<!-- mini contribution squares
-  <div class="field calendar">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
-      <g>
-        <rect x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-        <rect x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-        <rect x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/> <rect x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-        <rect x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/> <rect x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-        <rect x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/> <rect x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-        <rect x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/> <rect x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-        <rect x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/> <rect x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-        <rect x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-        <rect x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-      </g>
-    </svg>
-  </div>
--->
 
-<!-- ## CV
-  You can find my CV in English below:
-  
-  | English CV |
-  |:---:|:---:|
-  |[<img align="center" src="images/cv.png"  width="100" alt="English CV"/>](Put_here_CV_URL)
--->
+<h2>
+  <img src="https://cdn.simpleicons.org/linkedin/2bbc8a" width="20">
+</h2>
 
-<!-- Old Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahMohamed13&layout=compact&hide_border=true&count_private=true&theme=github_dark&langs_count=9)](https://github.com/anuraghazra/github-readme-stats) 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahMohamed13&theme=github_dark&hide_border=true" align="center" alt="github stats"/>
+- 🌐 **Portfolio**: [abdallah-aziz.onrender.com](https://abdallah-aziz.onrender.com)
+- 💼 **LinkedIn**: [abdallah-m-aziz](https://linkedin.com/in/abdallah-m-aziz)
+
+
+<h2>
+  <img src="https://cdn.simpleicons.org/github/2bbc8a" width="30">
+</h2>
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahmohamed13&background=0D1117&border=2bbc8a&stroke=2bbc8a&ring=2bbc8a&fire=2bbc8a&currStreakNum=FFFFFF&currStreakLabel=2bbc8a&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E"
+    alt="GitHub Streak"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdullahMohamed13&layout=compact&theme=github_dark&hide_border=true&title_color=2bbc8a&text_color=ffffff&bg_color=0d1117"
+    alt="Top Languages"
+  />
+</p>
+
+<h2>
+  <img src="https://cdn.simpleicons.org/react/2bbc8a" width="20">
+</h2>
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Tailwind_CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+
+<!--
+
+|   | A | B | C | D | E | F | G | H |
+| - | - | - | - | - | - | - | - | - |
+| 8 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/k.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png) |
+| 7 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) |
+| 6 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
+| 5 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
+| 4 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) |
+| 3 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) |
+| 2 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
+| 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png) |
+
+## Play again? [![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/new_game.png)](https://github.com/abdullahMohamed13/abdullahMohamed13/issues/new?title=chess%7Cnew&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)
+
+**How this works**
+
+When you click a link, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a [GitHub Actions](https://github.blog/2020-07-03-github-action-hero-casey-lee/#getting-started-with-github-actions) workflow that'll update my GitHub Profile _README.md_ with the new state of the board.
+
 -->
