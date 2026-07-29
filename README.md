@@ -1,32 +1,61 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Hallo!
+ I'm a Frontend Developer, *Linux user* btw ☝, *Neovim in the way*
 
-### Frontend Developer exploring Backend Web Development with **Laravel**.
-*Neovim enthusiast*
+## Who am I?
+I started programming in 2022 with C++, learning the fundamentals through simple console applications, learning how software works from the ground up. Over time as I explored different areas of software development, I found myself drawn to frontend development where I could combine technical problem-solving with thoughtful user experiences. Today, that's where I spend most of my time.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abdullahMohamed13&label=Profile%20Visitors&color=2bbc8a&style=flat" />
-</p>
+I'm interested in products that people actually use. Most of my experience comes from building products rather than isolated features.
+I enjoy taking ideas from requirements to implementation, collaborating with designers and backend developers, and refining the details until the experience feels right.
 
-<h2>
-  <img src="https://cdn.simpleicons.org/aboutdotme/2bbc8a" width="70">
-</h2>
+For me, It's understanding how people use a product and writing code that's easy for the next developer to understand.
 
-- 💻 **Frontend**: Modern web interfaces built with React, TypeScript, JavaScript, HTML5, CSS3, Sass, and Tailwind CSS.
-- ⚙️ **Backend**: Currently expanding backend knowledge using Laravel.
-- 🛠️ **Workflow**: Preferred environment is Linux with Neovim.
+## Where I've Contributed?
 
+<div align="center">
+  <a href="https://ieeesha.org">
+    <img src="experiences/ieee.webp" height="70" alt="IEEE"/>
+  </a>
 
-<h2>
-  <img src="https://cdn.simpleicons.org/linkedin/2bbc8a" width="20">
-</h2>
+  <a href="https://developers.google.com/program">
+    <img src="experiences/google-developer.webp" height="70" alt="Google Developers Program"/>
+  </a>
 
-- 🌐 **Portfolio**: [abdallah-aziz.onrender.com](https://abdallah-aziz.onrender.com)
+  <a href="https://www.gizasystems.com">
+    <img src="experiences/giza-systems.webp" height="70" alt="Giza Systems (Pulse Solutions)"/>
+  </a>
+
+  <a href="https://huma-volve.com">
+    <img src="experiences/huma-volve.webp" height="70" alt="Huma Volve"/>
+  </a>
+  
+  <a href="https://eyouthlearning.com/en">
+    <img src="experiences/eyouth.webp" height="70" alt="McKinsey.org"/>
+  </a>
+  
+  <a href="https://www.afaaqware.com">
+    <img src="experiences/afaaq-ware.webp" height="70" alt="AfaaqWare"/>
+  </a>
+</div>
+
+## Tech Stack
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Tailwind_CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+
+## Let's Talk
+
 - 💼 **LinkedIn**: [abdallah-m-aziz](https://linkedin.com/in/abdallah-m-aziz)
+- 🌐 **Portfolio**: [abdallah-aziz.onrender.com](https://abdallah-aziz.onrender.com)
 
 
-<h2>
-  <img src="https://cdn.simpleicons.org/github/2bbc8a" width="30">
-</h2>
+## GitHub Stats
 
 <p align="center">
   <img
@@ -41,19 +70,9 @@
   />
 </p>
 
-<h2>
-  <img src="https://cdn.simpleicons.org/react/2bbc8a" width="20">
-</h2>
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Tailwind_CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=abdullahMohamed13&label=Profile%20Visitors&color=2bbc8a&style=flat" />
+</p>
 
 <!--
 
