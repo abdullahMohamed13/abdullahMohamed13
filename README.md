@@ -1,15 +1,15 @@
 # Hallo!
- I'm a Frontend Developer, *Linux user* btw ☝, *Neovim in the way*
+ I'm a Frontend Developer
 
 ## Who am I?
-I started programming in 2022 with C++, learning the fundamentals through simple console applications, learning how software works from the ground up. Over time as I explored different areas of software development, I found myself drawn to frontend development where I could combine technical problem-solving with thoughtful user experiences. Today, that's where I spend most of my time.
+I'm a Computer Science Grad. I started programming in 2022 with C++, learning the fundamentals through simple console applications, learning how software works from the ground up. Over time as I explored different areas of software development, I found myself drawn to frontend development where I could combine technical problem-solving with thoughtful user experiences. Today, that's where I spend most of my time.
 
 I'm interested in products that people actually use. Most of my experience comes from building products rather than isolated features.
 I enjoy taking ideas from requirements to implementation, collaborating with designers and backend developers, and refining the details until the experience feels right.
 
 For me, It's understanding how people use a product and writing code that's easy for the next developer to understand.
 
-## Where I've Contributed?
+## Experience & Communities
 
 <div align="center">
   <a href="https://ieeesha.org">
