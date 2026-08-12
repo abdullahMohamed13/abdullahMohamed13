@@ -55,6 +55,7 @@ For me, It's understanding how people use a product and writing code that's easy
 - 🌐 **Portfolio**: [abdallah-aziz.onrender.com](https://abdallah-aziz.onrender.com)
 
 
+<!--
 ## GitHub Stats
 
 <p align="center">
@@ -73,6 +74,9 @@ For me, It's understanding how people use a product and writing code that's easy
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=abdullahMohamed13&label=Profile%20Visitors&color=2bbc8a&style=flat" />
 </p>
+-->
+
+<!-- Chess board-->
 
 <!--
 
