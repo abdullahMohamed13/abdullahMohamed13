@@ -54,6 +54,9 @@ For me, It's understanding how people use a product and writing code that's easy
 - 💼 **LinkedIn**: [abdallah-m-aziz](https://linkedin.com/in/abdallah-m-aziz)
 - 🌐 **Portfolio**: [abdallah-aziz.onrender.com](https://abdallah-aziz.onrender.com)
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=abdullahMohamed13&label=Profile%20Visitors&color=2bbc8a&style=flat" />
+</p>
 
 <!--
 ## GitHub Stats
@@ -71,9 +74,6 @@ For me, It's understanding how people use a product and writing code that's easy
   />
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=abdullahMohamed13&label=Profile%20Visitors&color=2bbc8a&style=flat" />
-</p>
 -->
 
 <!-- Chess board-->
