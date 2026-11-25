@@ -1,6 +1,8 @@
 # Hallo!
 I'm a Frontend Developer and I'm learning Neovim :)
 
+![GIF](./assets/my_workspace.gif)
+
 ## Who am I?
 A Computer Science Grad. I started programming in 2022 with C++, learning the fundamentals through simple console applications, learning how software works from the ground up. Over time as I explored different areas of software development, I found myself drawn to frontend development where I could combine technical problem-solving with thoughtful user experiences. Today, that's where I spend most of my time.
 
@@ -49,10 +51,11 @@ For me, It's understanding how people use a product and writing code that's easy
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 
-## Let's Talk
+## Find Me Here
 
 - 💼 **LinkedIn**: [abdallah-m-aziz](https://linkedin.com/in/abdallah-m-aziz)
-- 🌐 **Portfolio**: [abdallah-aziz.onrender.com](https://abdallah-aziz.onrender.com)
+- 🌐 **Portfolio**: [abdallahaziz.is-a.dev](https://abdallahaziz.is-a.dev)
+- 📧 **Email**: abdallahaziz.dev@gmail.com
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=abdullahMohamed13&label=Profile%20Visitors&color=2bbc8a&style=flat" />
