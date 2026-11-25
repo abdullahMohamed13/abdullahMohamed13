@@ -1,7 +1,14 @@
-# Hallo!
-I'm a Frontend Developer and I'm learning Neovim :)
-
-![GIF](./assets/my_workspace.gif)
+<table>
+  <tr>
+    <td width="55%" valign="middle">
+      <h1>Hallo!</h1>
+      <p>I'm a Frontend Developer and I'm learning Neovim :)</p>
+    </td>
+    <td width="45%">
+      <img src="./assets/demo.gif" width="100%" alt="Project Demo">
+    </td>
+  </tr>
+</table>
 
 ## Who am I?
 A Computer Science Grad. I started programming in 2022 with C++, learning the fundamentals through simple console applications, learning how software works from the ground up. Over time as I explored different areas of software development, I found myself drawn to frontend development where I could combine technical problem-solving with thoughtful user experiences. Today, that's where I spend most of my time.
