@@ -5,7 +5,7 @@
       <p>I'm a Frontend Developer and I'm learning Neovim :)</p>
     </td>
     <td width="45%">
-      <img src="./assets/my_workspace.gif" width="100%" alt="Workspace GIF">
+      <img src="./assets/workspace.gif" width="100%" alt="Workspace GIF">
     </td>
   </tr>
 </table>
